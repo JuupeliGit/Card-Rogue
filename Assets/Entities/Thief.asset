@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fec06bc7563c70b49b81ff6ca40c54f7, type: 3}
+  m_Name: Thief
+  m_EditorClassIdentifier: 
+  sprite: {fileID: -1173514023062385203, guid: c0cd8337abf133d439633f9b36e4a3a0, type: 3}
+  spriteColor: {r: 0.33908412, g: 0.2523585, b: 0.5, a: 1}
+  maxHealth: 1
+  stepsPerTurn: 6
+  attacksPerTurn: 1
+  hazard: {fileID: 11400000, guid: 26eb506728449fe4f98fb11e09df134d, type: 2}
+  loot: {fileID: 11400000, guid: 655666b7ac0c21141b58518c58943db5, type: 2}

@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1198a907b5a84904ebc85f035aac57ff, type: 3}
+  m_Name: Cards 2
+  m_EditorClassIdentifier: 
+  loot:
+  - card: {fileID: 0}
+    weight: 100
+  - card: {fileID: 11400000, guid: 33c643d0f6fb23d478760558ab915532, type: 2}
+    weight: 50
+  - card: {fileID: 11400000, guid: 53b5599c5a20c4345831a62d13c5f53b, type: 2}
+    weight: 5
+  - card: {fileID: 11400000, guid: f9d713e5fda7ba040a0b42f78a8ad12f, type: 2}
+    weight: 25
+  - card: {fileID: 11400000, guid: 169d07a2b43fc784dbb9cbb9c1d79271, type: 2}
+    weight: 10
+  - card: {fileID: 11400000, guid: cd5d749d02771764f9f7375ec9c1e208, type: 2}
+    weight: 25
+  - card: {fileID: 11400000, guid: cb617696c97e4854e900cc2c72216604, type: 2}
+    weight: 5

@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1198a907b5a84904ebc85f035aac57ff, type: 3}
+  m_Name: Cards 5
+  m_EditorClassIdentifier: 
+  loot:
+  - card: {fileID: 0}
+    weight: 150
+  - card: {fileID: 11400000, guid: 6f0b83bc2ded6b7479e9ea11778e6d7a, type: 2}
+    weight: 50
+  - card: {fileID: 11400000, guid: cb617696c97e4854e900cc2c72216604, type: 2}
+    weight: 5
+  - card: {fileID: 11400000, guid: 7029b6648424c584da740463ebae45fb, type: 2}
+    weight: 25
+  - card: {fileID: 11400000, guid: cfd20a5686f0e674da240362f9cf9045, type: 2}
+    weight: 25
+  - card: {fileID: 11400000, guid: 46bca38754de8164084af266e28cd02d, type: 2}
+    weight: 10
+  - card: {fileID: 11400000, guid: 1bee79a4f0b44c4439c3bb51af1575e5, type: 2}
+    weight: 10
+  - card: {fileID: 11400000, guid: 081a8c68e17955047a00ce278306edf0, type: 2}
+    weight: 10
+  - card: {fileID: 11400000, guid: 16147d2729fc3fd48b0c05a548bc5f20, type: 2}
+    weight: 5
+  - card: {fileID: 11400000, guid: 19503b9615e7f6d40999dee8f1bb110c, type: 2}
+    weight: 25
+  - card: {fileID: 11400000, guid: 1ef7557ac73db4c4daa332d3618e0411, type: 2}
+    weight: 25
+  - card: {fileID: 11400000, guid: a2b0d83f262e3594b8a6e729ee07108d, type: 2}
+    weight: 1

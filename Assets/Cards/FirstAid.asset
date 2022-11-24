@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1c09ad8c58e73194ca2edb172022596c, type: 3}
+  m_Name: FirstAid
+  m_EditorClassIdentifier: 
+  cardName: First Aid
+  cardSprite: {fileID: 2963306449501519570, guid: 1beae41f85a5f3d40be41f7a2e4cc47c,
+    type: 3}
+  abilities:
+  - ability: {fileID: 11400000, guid: e26a12bc2f083d5468c6afda27b287b8, type: 2}
+    amount: 4
+    showAmount: 1
+  - ability: {fileID: 11400000, guid: ba3c4c6fdf69cc249b8d09aa1cfe3ea6, type: 2}
+    amount: 1
+    showAmount: 0

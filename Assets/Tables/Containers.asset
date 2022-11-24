@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 55e4c419a5ec1364bb21932415c290b4, type: 3}
+  m_Name: Containers
+  m_EditorClassIdentifier: 
+  entitites:
+  - entityStats: {fileID: 11400000, guid: ab1676aa68fb2fc4f86df96dc902b55a, type: 2}
+    weight: 80
+  - entityStats: {fileID: 11400000, guid: 42f24af1a67e00a43aea45c771b6c714, type: 2}
+    weight: 50
+  - entityStats: {fileID: 11400000, guid: 7fd746ce89bab664fbb5df03a753457e, type: 2}
+    weight: 5

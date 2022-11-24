@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fec06bc7563c70b49b81ff6ca40c54f7, type: 3}
+  m_Name: Cursed Doll
+  m_EditorClassIdentifier: 
+  sprite: {fileID: -5580830351322088249, guid: c0cd8337abf133d439633f9b36e4a3a0, type: 3}
+  spriteColor: {r: 0.5660378, g: 0.45784724, b: 0.34442863, a: 1}
+  maxHealth: 5
+  stepsPerTurn: 1
+  attacksPerTurn: 1
+  hazard: {fileID: 0}
+  statusCondition: {fileID: 11400000, guid: ac836505f2d67fd4b844fbe922f5627f, type: 2}
+  statusChance: 1
+  statusTurns: 10
+  card: {fileID: 11400000, guid: 5b19c2972c5ce7b4f9e791d33eea9c7a, type: 2}
+  cardChance: 1
+  loot: {fileID: 11400000, guid: 4fa58ef5a7be5a540ba3f9944aa5226a, type: 2}
